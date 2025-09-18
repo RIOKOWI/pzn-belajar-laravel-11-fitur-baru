@@ -90,3 +90,9 @@ contoh di file :
 
 FooBarServiceProvider.php
 providers.php
+
+## ROUTING LEBIH SEDERHANA
+
+contoh di file :
+
+bootstrap/app.php
