@@ -64,3 +64,18 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## SLIDE
+
+
+## SOURCE CODE
+
+
+## CONFIG FILE LEBIH SEDERHANA
+
+perintah memunculkan config yang hilang:
+php artisan config:publish
+
+contoh di file :
+view.php
+broadcasting.php
