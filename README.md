@@ -77,5 +77,16 @@ perintah memunculkan config yang hilang:
 php artisan config:publish
 
 contoh di file :
+
 view.php
 broadcasting.php
+
+## SERVICE PROVIDER LEBIH SEDERHANA
+
+perintah membuat service provider :
+php artisan make:provider FooBarServiceProvider
+
+contoh di file :
+
+FooBarServiceProvider.php
+providers.php
