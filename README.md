@@ -106,3 +106,15 @@ contoh di file :
 
 bootstrap/app.php
 api.php
+
+## MIDDLEWARE LEBIH SEDERHANA
+
+perintah untuk membuat middleware : 
+php artisan make:middleware LogMiddleware
+
+contoh di file :
+
+LogMiddleware.php
+
+bootstrap/app.php
+LINE 15-21
