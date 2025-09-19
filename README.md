@@ -96,3 +96,13 @@ providers.php
 contoh di file :
 
 bootstrap/app.php
+
+## API ROUTE OPTIONAL
+
+perintah untuk membuat api routing : 
+php artisan install:api
+
+contoh di file :
+
+bootstrap/app.php
+api.php
