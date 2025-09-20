@@ -66,10 +66,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## SLIDE
-
+https://docs.google.com/presentation/d/1-XtceWKGLGC_QHlq8M6c5Wplg8nSI0lmhC9Rlf3RmMk/edit
 
 ## SOURCE CODE
-
+https://github.com/ProgrammerZamanNow/belajar-laravel-11
 
 ## CONFIG FILE LEBIH SEDERHANA
 
@@ -194,3 +194,7 @@ protected function casts(): array
             'password' => 'hashed',
         ];
     }
+
+## UPGRADE DARI LARAVEL 10
+
+https://github.com/RIOKOWI/pzn-belajar-laravel-restful-api-11
