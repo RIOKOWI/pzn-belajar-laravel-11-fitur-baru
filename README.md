@@ -130,3 +130,18 @@ RedisCheckEventListener.php
 
 bootstrap/app.php
 LINE 13
+
+## PERINTAH ARTISAN BARU
+
+perintah baru buat beberapa hal di PHP : 
+php artisan make:enum = Untuk mambuat PHP Enum
+php artisan make:class = Untuk mambuat PHP Class
+php artisan make:interface = Untuk mambuat PHP Interface
+php artisan make:trait = Untuk mambuat PHP Trait
+
+contoh di file :
+
+Gender.php
+Closable.php
+UserService.php
+UserServiceImpl.php
