@@ -159,3 +159,11 @@ vendor/bin/pest
 
 contoh di file :
 HelloTest.php
+
+## DEFAULT DATABASE SQLITE
+
+contoh di file : 
+
+.env
+LINE 22
+
