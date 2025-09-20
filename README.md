@@ -167,3 +167,14 @@ contoh di file :
 .env
 LINE 22
 
+## EXCEPTION HANDLER LEBIH SEDERHANA
+
+contoh di file :
+
+ValidationError.php
+
+bootstrap/app.php
+LINE 24-29
+web.php
+LINE 11-14
+
