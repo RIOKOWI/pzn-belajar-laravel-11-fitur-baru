@@ -145,3 +145,17 @@ Gender.php
 Closable.php
 UserService.php
 UserServiceImpl.php
+
+## INTEGRASI DENGAN PEST UNIT TEST
+
+perintah install pest :
+composer require pestphp/pest --dev --with-all-dependencies
+
+setup :
+vendor/bin/pest --init
+
+run :
+vendor/bin/pest
+
+contoh di file :
+HelloTest.php
