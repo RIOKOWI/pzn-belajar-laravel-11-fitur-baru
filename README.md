@@ -118,3 +118,15 @@ LogMiddleware.php
 
 bootstrap/app.php
 LINE 15-21
+
+## HEALTH CHECK
+
+perintah untuk membuat health check : 
+php artisan make:listener RedisCheckEventListener
+
+contoh di file :
+
+RedisCheckEventListener.php
+
+bootstrap/app.php
+LINE 13
