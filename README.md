@@ -185,3 +185,12 @@ contoh di file :
 MathHelper.php
 MathTest.php
 
+## MODEL CASTS
+
+protected function casts(): array
+    {
+        return [
+            'email_verified_at' => 'datetime',
+            'password' => 'hashed',
+        ];
+    }
